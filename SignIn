@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+
+<form action="">
+Username:<br>
+<input type="text" name="userid">
+<br>
+Password:<br>
+<input type="password" name="psw">
+<br><br>
+<input type="submit" value="Submit">
+</form>
+
+<p>The characters in a password field are masked (shown as asterisks or circles).</p>
+
+</body>
+</html>
