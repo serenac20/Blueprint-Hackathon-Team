@@ -4,7 +4,7 @@ body {font-family: Verdana, sans-serif;}
 /* Month header */
 .month {
     padding: 70px 25px;
-    width: 100%;
+    width: 96%;
     background: #1abc9c;
     text-align: center;
 }
@@ -39,6 +39,7 @@ body {font-family: Verdana, sans-serif;}
     margin: 0;
     padding: 15px 0;
     background-color:#ddd;
+    width: 100%;
 }
 
 .weekdays li {
